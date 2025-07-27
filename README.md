@@ -6,6 +6,7 @@ python based burpsuite alternative
 
 
 Setup
+
 `git clone {github_repos_url}`
 
 `pip install -r requirements`
