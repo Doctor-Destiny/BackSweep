@@ -1,4 +1,4 @@
-# BackSweep
+# BackSweep 🛡️
 python based burpsuite alternative with a nice modern user friendly UI
 
 
@@ -15,7 +15,7 @@ python based burpsuite alternative with a nice modern user friendly UI
 
 
 
-Setup
+# Setup
 
 `git clone https://github.com/LL-LUMA/BackSweep.git`
 
@@ -24,7 +24,7 @@ Setup
 
 
 
-Run
+# Run
 
 `python main.py`
 
