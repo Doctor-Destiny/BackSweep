@@ -9,7 +9,7 @@ python based burpsuite alternative with a modern ui
 
 Setup
 
-`git clone {github_repos_url}`
+`git clone https://github.com/LL-LUMA/BackSweep.git`
 
 `pip install -r requirements.txt`
 
