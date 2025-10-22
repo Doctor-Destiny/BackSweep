@@ -6,7 +6,7 @@ Easy to use, and comes pre-with nosql injection and sql injection toolkit by def
 Everything is automated and fast, good for saving time, plus it is more efficient
 
 
-# Simplified
+# Simplified and automated
 
 
 
