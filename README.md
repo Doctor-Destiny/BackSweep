@@ -1,12 +1,12 @@
 # BackSweep 🛡️
-python based burpsuite alternative with a nice modern user friendly UI
+python based burpsuite alternative with a nice user friendly UI
 
 Easy to use, and comes pre-with nosql injection and sql injection toolkit by default
 
 Everything is automated and fast, good for saving time, plus it is more efficient
 
 
-# Ethical Use is Encouraged though it is not expected!
+# Simplified
 
 
 
